@@ -34,3 +34,14 @@ This list contains some of the resources that can help anyone who wants to learn
     - Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition : [[https://docs.google.com/spreadsheets/u/0/?ftv=1](https://www.amazon.com/Introduction-Statistical-Methods-Data-Analysis/dp/1305269470/ref=sr_1_9?crid=2UPVABKJ1Z3W7&keywords=introduction+to+data+analysis&qid=1667436522&qu=eyJxc2MiOiIwLjY0IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=introduciton+to+data+analysis%2Caps%2C303&sr=8-9)](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_6?crid=3LAH8R4303A98&keywords=data+analysis&qid=1667436752&qu=eyJxc2MiOiI1LjcyIiwicXNhIjoiNS40OCIsInFzcCI6IjUuMjMifQ%3D%3D&sprefix=data+analysis%2Caps%2C258&sr=8-6)
     - Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition : [[[https://docs.google.com/spreadsheets/u/0/?ftv=1](https://www.amazon.com/Introduction-Statistical-Methods-Data-Analysis/dp/1305269470/ref=sr_1_9?crid=2UPVABKJ1Z3W7&keywords=introduction+to+data+analysis&qid=1667436522&qu=eyJxc2MiOiIwLjY0IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=introduciton+to+data+analysis%2Caps%2C303&sr=8-9)](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_6?crid=3LAH8R4303A98&keywords=data+analysis&qid=1667436752&qu=eyJxc2MiOiI1LjcyIiwicXNhIjoiNS40OCIsInFzcCI6IjUuMjMifQ%3D%3D&sprefix=data+analysis%2Caps%2C258&sr=8-6) : [[https://docs.google.com/spreadsheets/u/0/?ftv=1](https://www.amazon.com/Introduction-Statistical-Methods-Data-Analysis/dp/1305269470/ref=sr_1_9?crid=2UPVABKJ1Z3W7&keywords=introduction+to+data+analysis&qid=1667436522&qu=eyJxc2MiOiIwLjY0IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=introduciton+to+data+analysis%2Caps%2C303&sr=8-9)](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_6?crid=3LAH8R4303A98&keywords=data+analysis&qid=1667436752&qu=eyJxc2MiOiI1LjcyIiwicXNhIjoiNS40OCIsInFzcCI6IjUuMjMifQ%3D%3D&sprefix=data+analysis%2Caps%2C258&sr=8-6)](https://www.amazon.com/Hands-Exploratory-Data-Analysis-Python/dp/1789537258/ref=sr_1_1?crid=31GOUS8XCTY9L&keywords=Understand+data+analysis&qid=1667436925&qu=eyJxc2MiOiIwLjc1IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=understand+data+analysis%2Caps%2C241&sr=8-1)
    
+### Courses 
+
+
+	- Python course : https://codebasics.io/courses/python-for-beginner-and-intermediate-learners
+	- Codebasics Numpy playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU
+	- khanacademy SQL course: https://www.khanacademy.org/computing/computer-programming/sql
+	- MongoDB : https://www.coursera.org/learn/introduction-mongodb
+	- Google templates gallery for personal finance etc : https://docs.google.com/spreadsheets/u/0/?ftv=1 
+    
+    
+
