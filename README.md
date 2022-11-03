@@ -22,3 +22,13 @@ This list contains some of the resources that can help anyone who wants to learn
 #### &emsp; 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
 #### &emsp; 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
 #### &emsp; 3. Advanced: where we learn more advanced Math, DL and Deployment.
+
+
+
+
+
+### Books WILL HELP YOU START:
+
+    - An Introduction to Statistical Methods and Data Analysis : [https://docs.google.com/spreadsheets/u/0/?ftv=1](https://www.amazon.com/Introduction-Statistical-Methods-Data-Analysis/dp/1305269470/ref=sr_1_9?crid=2UPVABKJ1Z3W7&keywords=introduction+to+data+analysis&qid=1667436522&qu=eyJxc2MiOiIwLjY0IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=introduciton+to+data+analysis%2Caps%2C303&sr=8-9)
+    
+    
